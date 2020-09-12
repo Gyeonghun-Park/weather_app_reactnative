@@ -10,16 +10,16 @@ Learning React Native by Building a Weather App
 
 - **Rainy Weather**
 
-  ![Rainy Weather](img/rainy.png)
+  ![Rainy Weather](img/rainy.PNG)
 
 - **Snowy Weather**
 
-  ![Snowy Weather](img/snowy.png)
+  ![Snowy Weather](img/snowy.PNG)
 
 - **ThunderingWeather**
 
-  ![ThunderingWeather](img/thundering.png)
+  ![ThunderingWeather](img/thundering.PNG)
 
 - **Drizzle Weather**
 
-  ![Drizzle Weather](img/drizzle.png)
+  ![Drizzle Weather](img/drizzle.PNG)
