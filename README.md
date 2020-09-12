@@ -6,7 +6,7 @@ Learning React Native by Building a Weather App
 
 - **Sunny Weather**
 
-  ![Sunny Weather](img/sunny.png)
+  ![Sunny Weather](img/sunny.PNG)
 
 - **Rainy Weather**
 
